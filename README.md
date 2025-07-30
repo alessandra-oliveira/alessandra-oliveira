@@ -13,13 +13,8 @@
 <div align="center">
 
 ✨ Atualmente curso <strong>Bacharelado em Sistemas de Informação</strong> e estou no <strong>segundo período</strong>.  
-Sempre fui apaixonada por tecnologia e, a cada dia que conheço mais sobre seu poder, fico ainda mais encantada.  
-É incrível tudo o que podemos criar com ela!
-
-No momento, estou focada em me desenvolver como <strong>Backend Developer</strong>, pois adoro a lógica por trás de tudo.  
-Entender como cada parte precisa se conectar para que tudo funcione corretamente é o que mais me fascina.
-
-Atualmente, estou estudando e praticando <strong>Python</strong>, minha linguagem principal (e única) no momento.
+Sempre fui apaixonada por tecnologia e, a cada dia que conheço mais sobre ela, fico ainda mais encantada.  
+É incrível tudo o que podemos criar com ela! No momento, estou focada em me desenvolver como <strong>Backend Developer</strong>, pois adoro a lógica por trás de tudo. Entender como cada parte precisa se conectar para que tudo funcione corretamente é o que mais me fascina. Atualmente, estou estudando e praticando <strong>Python</strong>, minha linguagem principal (e única) no momento.
 
 </div>
 
