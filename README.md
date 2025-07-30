@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="assets/gatinhopc.gif" width="200" alt="Gif fofo de gatinho no PC">
-</div>
-
-<div align="center">
   <img src="https://github.com/Teemamin/Teemamin/blob/main/assets/header.gif?raw=true" alt="Banner animado" width="800">
 </div>
 
