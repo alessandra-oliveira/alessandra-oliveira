@@ -2,18 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4FCB&center=true&vCenter=true&width=700&lines=ol%C3%A1%2C+mundo.+me+chamo+alessandra+oliveira!+%3A%29" alt="Typing SVG">
 </div>
 
-<div align="center">
-  <img src="https://github.com/Teemamin/Teemamin/blob/main/assets/header.gif?raw=true" alt="Banner animado" width="800">
-</div>
-
-<div align="center">
-
-✨ Atualmente curso <strong>Bacharelado em Sistemas de Informação</strong>.
-Sempre fui apaixonada por tecnologia e, a cada dia que conheço mais sobre ela, fico ainda mais encantada.  
-É incrível tudo o que podemos criar com ela! No momento, estou focada em me desenvolver como <strong>Backend Developer</strong>, pois adoro a lógica por trás de tudo. Entender como cada parte precisa se conectar para que tudo funcione corretamente é o que mais me fascina. Atualmente, estou estudando e praticando <strong>Python</strong>, minha linguagem principal (e única) no momento.
-
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -27,6 +15,7 @@ Sempre fui apaixonada por tecnologia e, a cada dia que conheço mais sobre ela, 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-F8D4DD?style=for-the-badge&logo=python&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-F8D4DD?style=for-the-badge&logo=openjdk&logoColor=000000)
 
 </div>
 
@@ -35,6 +24,7 @@ Sempre fui apaixonada por tecnologia e, a cada dia que conheço mais sobre ela, 
 <div align="center">
 
 ![VSCode](https://img.shields.io/badge/VSCode-F8D4DD?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
+![Eclipse](https://img.shields.io/badge/Eclipse-F8D4DD?style=for-the-badge&logo=eclipseide&logoColor=000000)
 ![Windows](https://img.shields.io/badge/Windows-F8D4DD?style=for-the-badge&logo=windows&logoColor=000000)
 
 </div>
